@@ -1,0 +1,16 @@
+
+
+display "Please enter the time in hours."
+input hours
+
+display "Please enter the time in minutes."
+input minutes
+
+// Time difference = 3 hours and thirty minutes. (India = Greece + 3.5)
+
+
+Indian_time_hours = hours + 3
+Indian_time_mins = minutes + 0.5
+
+display "The time in India is ",Indian_time_hours,":",Indian_time_mins,""
+
