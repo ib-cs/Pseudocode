@@ -1,2 +1,0 @@
-# Pseudocode
-Created with CodeSandbox
